@@ -1,0 +1,22 @@
+{
+  "name": "gh0stly-gh0sts-rfp",
+  "version": "1.0.0",
+  "description": "A repo to assist getting the wallet list for the Gh0stly Gh0sts RFP submission.",
+  "main": "holders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadyoakcoding/gh0stly-gh0sts-RFP.git"
+  },
+  "author": "shady_oak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadyoakcoding/gh0stly-gh0sts-RFP/issues"
+  },
+  "homepage": "https://github.com/shadyoakcoding/gh0stly-gh0sts-RFP#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
