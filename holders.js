@@ -1,9 +1,9 @@
 /*
     This file was written by ChatGPT with the following prompt:
     "I have a folder called "snapshots" in javascript of CSV files. The majority of the files are a csv file that contain an ethereum address and a number on each line. If the file name starts with "1_", add that wallet address to a file called "snapshot_1_totals.csv" along with the number beside it. If the wallet address is already in that csv, just add to the number. When doing anything with a wallet address such, always use toLowerCase to avoid duplication errors.
-Do the same thing for "2_" and "snapshot_2_totals.csv"
+    Do the same thing for "2_" and "snapshot_2_totals.csv"
 
-write me code to do this""
+    write me code to do this""
 */
 
 const fs = require('fs');
