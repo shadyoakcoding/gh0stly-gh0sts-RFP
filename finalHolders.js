@@ -36,8 +36,6 @@ fs.createReadStream(snapshot1)
                     if (amountSnapshot1 <= amountSnapshot2) {
                         appendToFile(finalSnapshot, wallet, amountSnapshot1);
                     }
-                } else {
-                    appendToFile(finalSnapshot, wallet, 0);
                 }
             })
             .on('end', () => {
