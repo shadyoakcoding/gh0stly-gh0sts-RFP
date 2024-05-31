@@ -19,3 +19,4 @@ The Avalanche snapshot was somewhat similar but there was [one transaction](http
 0x85c4cDbBe7cbb7eEcecA0F835E66451De5a61D1C [transaction 1](https://snowtrace.io/tx/0x4c04bb9dce96b489866d1469e809db0958671d9973690d51433f198f212eefef?chainId=43114)
 0xFce8BA1CDA4070e4b31fD2909903Be1DA53Ae308 [transaction 2](https://snowtrace.io/tx/0x3d899c0ae8df17be8474feb58d1fff65bf7a873c5b505ccca2e218450b764245?chainId=43114)
 
+In order to simplify coding the total elligible holder counts I have added "1_" at the start of csv files for snapshot 1 and "2_" at the start of files for snapshot 2.
