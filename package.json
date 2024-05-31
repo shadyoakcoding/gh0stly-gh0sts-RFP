@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shadyoakcoding/gh0stly-gh0sts-RFP#readme",
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5"
   }
 }
